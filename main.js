@@ -4,7 +4,7 @@
   var app = document.querySelector('#app');
   
 })(document);
-app.firebaseURL = 'https://polyfar.firebaseio.com';
+app.firebaseURL = 'https://yourappname.firebaseio.com';
 app.firebaseProvider = 'google';
 
 app.items = [ ];
